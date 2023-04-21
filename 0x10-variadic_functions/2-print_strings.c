@@ -38,4 +38,5 @@
 		printf("\n");
 
 
-		va_end(string its place}
+		va_end(strings);
+	}
